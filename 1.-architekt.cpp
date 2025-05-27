@@ -21,6 +21,7 @@ int main()
     cout << "The architect " << architecktName << " will need " << neededHours << " hours to complete " << projectsCount << " project/s." << endl;
 
     return 0;
+    // test
 }
 
 
